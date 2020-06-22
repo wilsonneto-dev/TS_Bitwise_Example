@@ -9,13 +9,13 @@ To run with deno:
 `deno .\index.ts`
 
 
-# :postbox: Get in touch to me
+## :postbox: Get in touch to me
 
 **E-mail:** hi@wilsonneto.com.br
 
 **Linkedin:** [https://www.linkedin.com/in/wilsonnetobr/](https://www.linkedin.com/in/wilsonnetobr/)
 
-# :closed_book: License
+## :closed_book: License
 
 Released in 2020.
 
