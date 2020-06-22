@@ -1,5 +1,4 @@
-# TS_Bitwise_Example
-:page_with_curl: Example of how to use bitwise flags with typescript
+## :page_with_curl: Example of how to use bitwise flags with typescript
 
 A simple example of how to use bitwise flags with typescript.
 
